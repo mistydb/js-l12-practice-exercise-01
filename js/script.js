@@ -1,4 +1,4 @@
-const selectUserNumber = document.querySelector(".num-users");
+const selectUserNumber = document.querySelector("#users");
 const randomFolks = document.querySelector(".random-peeps");
 
 const getData = async function (numUsers) {
